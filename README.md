@@ -1,5 +1,5 @@
 # T3-UD28_HTML_CSS
 
-## Rama style (ej 4)
+## Rama postresemana (ej 5)
 
-Implementacion archivo style.css sobre plato semana
+Implementacion archivo postresemana.html con style anterior
